@@ -2,7 +2,7 @@ import React from 'react'
 
 const Landing = () => {
   return (
-    <div className='py-20 px-30 w-full h-screen bg-[#1D392B] font-[YAFdJvl8raw 1]'>
+    <div className='py-20 px-36 w-full h-screen bg-[#1D392B] font-[YAFdJvl8raw 1]'>
         <div className='flex justify-between'>
             <div className='w-10 h-10 bg-[#0DDF72] rounded-full'></div>
             <div className="text-[#DAFCE0] text-2xl font-bold left-1.5 max-w-0.5 pr-140 mt-2">CYNET 2025</div>  
