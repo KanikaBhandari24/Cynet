@@ -2,7 +2,7 @@ import React from "react";
 
 export const AboutCynet = () => {
   return (
-    <div className="w-full relative flex py-16 h-[95vh] px-40 bg-green">
+    <div className="w-full relative flex py-16 h-screen px-40 bg-green">
       <div>
         <div className="w-[40rem]">
           <h1 className="text-8xl tracking-tighter leading-[5rem] mont-bold text-[#1D392B]">
