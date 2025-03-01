@@ -2,6 +2,7 @@
 import './App.css'
 import { AboutCynet } from './components/2ndPage/AboutCynet'
 import Landing from './components/Landing'
+import PrevGallery from './components/PrevGallery.jsx'
 
 function App() {
   
@@ -10,6 +11,7 @@ function App() {
     <>
       <Landing/>
       <AboutCynet />
+      <PrevGallery/>
     </>
   )
 }
