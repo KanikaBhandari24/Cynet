@@ -1,13 +1,13 @@
 
 function PrevGallery(){
-    const images = ["./src/assets/img1.jpeg",
-                    "./src/assets/img1.jpeg",
-                    "./src/assets/img2.jpeg",
-                    "./src/assets/img3.jpeg",
-                    "./src/assets/img1.jpeg",
-                    "./src/assets/img4.jpeg",
-                    "./src/assets/img5.jpeg",
-                    "./src/assets/img6.jpeg"
+    const images = ["./src/assets/preCynetImages/img1.jpeg",
+                    "./src/assets/preCynetImages/img1.jpeg",
+                    "./src/assets/preCynetImages/img2.jpeg",
+                    "./src/assets/preCynetImages/img3.jpeg",
+                    "./src/assets/preCynetImages/img1.jpeg",
+                    "./src/assets/preCynetImages/img4.jpeg",
+                    "./src/assets/preCynetImages/img5.jpeg",
+                    "./src/assets/preCynetImages/img6.jpeg"
     ]
 
     return(
