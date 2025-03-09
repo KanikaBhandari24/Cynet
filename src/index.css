@@ -3,6 +3,17 @@
 
 .bg-green{
     background-color: #0DDF72;
+  }
+  .text-green{
+      color: #0DDF72;
+  }
+  .text-l-g{
+      color: #DBFDE0;
+  }
+
+
+.bg-dark-green{
+  background-color: #1D392B;
 }
 
 .mont-md {
