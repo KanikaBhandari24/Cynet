@@ -5,12 +5,13 @@ function Rules() {
                     "Schedule a free consultation or apply as a digital accessibility expert",
                     "Schedule a free consultation or apply as a digital accessibility expert",
                     "Schedule a free consultation or apply as a digital accessibility expert",
+                    "Schedule a free consultation or apply as a digital accessibility expert",
                     "Schedule a free consultation or apply as a digital accessibility expert"
     ]
 
     return (
         
-        <div className="bg-[#0DDF72]">
+        <div className="bg-[#0DDF72] min-h-[100vh]">
             <h1 className="text-[88px]/[89px] tracking-tighter text-[rgb(29,57,43)] mont-bold ml-[156px] py-[75px] w-[50vw] font-bold">Rules to be
                 followed</h1>
             <div className="flex mont-bold tracking-tighter pt-6 pb-24 items-end justify-between mx-[156px]">
